@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /seuclick/painel
+Allow: /seuclick/
+Sitemap: https://andersondevbr.github.io/seuclick/sitemap.xml
